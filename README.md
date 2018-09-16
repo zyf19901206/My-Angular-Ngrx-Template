@@ -1,2 +1,2 @@
-# My-Angular-Ngrx-Template
-Angular Component.私人学习使用.
+# My-Angular-Template
+Angular Template.私人学习使用.
